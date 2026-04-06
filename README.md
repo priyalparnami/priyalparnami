@@ -1,6 +1,6 @@
 <!-- 🎮 CUSTOM BANNER -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+  <img src="Git Hub Banner.jpeg" width="100%" />
 </p>
 
 <!-- 🔥 TYPING TEXT ANIMATION -->
